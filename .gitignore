@@ -1,4 +1,8 @@
 .idea/
 RecommenderSystem.iml
 Data.iml
-MapReduce_jobs.png
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+input/.DS_Store
+
